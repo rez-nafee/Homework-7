@@ -1,4 +1,4 @@
-# Homework-7--Graphs-CSE-214-
+# Homework-7-Graphs-CSE-214-
 
 You have been tasked with the creation of a system which will be responsible for matching organ donors with potential transplant recipients. In order to achieve high success rates of surgeries, there are certain parameters which must be considered before matching patients. This includes making sure that a patient can receive a transplant from an organ donor based on both the patient's and donor's blood types. If these blood types are not compatible, the patient cannot receive the transplant, and no match between the two is made. To better understand how blood type compatibility works, a table is included (see below) to assist you in determining compatibility.
 
